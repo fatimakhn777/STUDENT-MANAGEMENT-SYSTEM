@@ -1,0 +1,53 @@
+# Student Management System - To-Do List
+
+This file contains the tasks and progress for the Student Management System project.
+
+## 1. Database (SQL)
+- [ ] Design database schema for students, courses, and results
+- [ ] Create tables for:
+  - Students
+  - Courses
+  - Marks/Results
+  - Users/Admin
+- [ ] Write SQL queries for:
+  - Adding new students
+  - Updating student records
+  - Deleting students
+  - Fetching student results
+- [ ] Test database connections
+
+## 2. Frontend (Website)
+### HTML
+- [ ] Create homepage with navigation
+- [ ] Student registration form
+- [ ] Student login page
+- [ ] Display student results page
+
+### CSS
+- [ ] Style all forms and pages
+- [ ] Make website responsive
+- [ ] Add color scheme and typography
+
+### JavaScript
+- [ ] Form validation
+- [ ] Dynamic table updates
+- [ ] Alerts for success/failure messages
+- [ ] Interactive elements (buttons, menus)
+
+## 3. Backend
+- [ ] Connect frontend with database
+- [ ] Implement CRUD operations (Create, Read, Update, Delete)
+- [ ] Handle user authentication and authorization
+- [ ] Write server-side scripts for data processing
+
+## 4. Website Integration
+- [ ] Link frontend pages
+- [ ] Test all forms and links
+- [ ] Deploy website locally
+- [ ] Deploy website online (optional)
+
+## 5. Miscellaneous
+- [ ] Add comments/documentation in code
+- [ ] Test the full system workflow
+- [ ] Optimize performance
+- [ ] Final review before submission
